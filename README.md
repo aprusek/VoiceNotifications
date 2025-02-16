@@ -1,7 +1,8 @@
 Voice messages to replace the seemingly random noises that a computer can generate in response to events.
 
 Includes:
-Computer Notifications
+
+- Computer Notifications
 - GPS Notifications
 - Mobile Phone Notifications
 
