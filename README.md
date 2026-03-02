@@ -1,4 +1,4 @@
-Voice messages to replace the seemingly random noises that a computer can generate in response to events.
+Voice messages to replace the seemingly random noises that a computer, tablet or phone can generate in response to events.
 
 Includes:
 
